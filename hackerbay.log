@@ -1,0 +1,4 @@
+::ffff:127.0.0.1 - - [01/Mar/2019:06:56:31 +0000] "POST /api/users/login HTTP/1.1" 400 106 "-" "node-superagent/3.8.3"
+::ffff:127.0.0.1 - - [01/Mar/2019:06:56:31 +0000] "POST /api/users/login HTTP/1.1" 500 1238 "-" "node-superagent/3.8.3"
+::ffff:127.0.0.1 - - [01/Mar/2019:06:56:32 +0000] "POST /api/create-thumbnail HTTP/1.1" 401 72 "-" "node-superagent/3.8.3"
+::ffff:127.0.0.1 - - [01/Mar/2019:06:56:32 +0000] "PATCH /api/patch-object HTTP/1.1" 401 72 "-" "node-superagent/3.8.3"
